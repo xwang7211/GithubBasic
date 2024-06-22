@@ -1,2 +1,4 @@
 mynew1
 mynew2
+new1
+new2
