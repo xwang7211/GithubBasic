@@ -5,3 +5,4 @@ movie 1
 movie 2
 movie 3
 main commit 1
+test protection rule
