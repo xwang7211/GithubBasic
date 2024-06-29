@@ -2,3 +2,4 @@ add a new file
 in main branch
 add by colt
 bad code by chicken
+test conflict001
