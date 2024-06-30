@@ -1,2 +1,3 @@
 new feature by colt
 change 00
+ok to automatically merge
