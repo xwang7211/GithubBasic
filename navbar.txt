@@ -4,3 +4,4 @@ create conflict from colt1
 create conflict from chicken1
 create another conflict from colt
 
+create another conflict from chicken
